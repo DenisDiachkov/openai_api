@@ -1,0 +1,12 @@
+# .gitignore 
+
+## Python
+```
+*.pyc
+__pycache__
+```
+
+## Jupyter
+```
+.ipynb_checkpoints
+```
